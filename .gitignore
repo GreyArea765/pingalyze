@@ -1,0 +1,11 @@
+__pycache__
+# Don't add source data to repo
+src/
+
+# Output files
+*.png
+*.log
+log/
+*.sqlite
+*.csv
+.~lock.stats.csv#
